@@ -1,5 +1,7 @@
 # Jekyll-Bootstrap
 
+[![Join the chat at https://gitter.im/colemancda/colemancda.github.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/colemancda/colemancda.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
